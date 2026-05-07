@@ -8,8 +8,7 @@
 🎤 Fun fact: If I’m not coding, I’m probably solving DSA problems or exploring new tech stacks.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](YOUR_GITHUB_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divya-singh-b80432296/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyasingh6448@gmail.com)
 
 # 💻 Tech Stack:
